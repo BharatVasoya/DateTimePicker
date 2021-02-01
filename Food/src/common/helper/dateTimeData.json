@@ -1,0 +1,84 @@
+{
+  "dateTimeData": [
+    {
+      "id": 1,
+      "title": "Jun 6th",
+      "day": "Today",
+      "time": [
+        "Within an hour",
+        "11:00 AM - 12:00 PM",
+        "12:00 AM - 11:00 PM",
+        "10:00 AM - 10:00 PM"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Jun 7th",
+      "day": "Tomorrow",
+      "time": [
+        "11:00 AM - 12:00 PM",
+        "12:00 AM - 11:00 PM"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Jun 8th",
+      "day": "Sunday",
+      "time": [
+        "1:00 AM - 12:00 PM",
+        "2:00 AM - 11:00 PM",
+        "3:00 AM - 10:00 PM"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Jun 9th",
+      "day": "Monday",
+      "time": [
+        "08:00 AM - 11:00 PM",
+        "09:00 AM - 10:00 PM",
+        "10:00 AM - 10:00 PM"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Jun 10th",
+      "day": "Tuesday",
+      "time": [
+        "09:00 AM - 11:00 PM",
+        "04:00 AM - 9:00 PM",
+        "06:00 AM - 05:00 PM"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Jun 11th",
+      "day": "Wednesday",
+      "time": [
+        "01:00 AM - 03:00 PM",
+        "11:00 AM - 02:00 PM"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Jun 12th",
+      "day": "Thursday",
+      "time": [
+        "10:00 AM - 10:00 PM"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Jun 13th",
+      "day": "Friday",
+      "time": [
+        "11:00 AM - 12:00 PM",
+        "12:00 AM - 11:00 PM",
+        "02:00 AM - 10:00 PM",
+        "01:00 AM - 09:00 PM",
+        "05:00 AM - 08:00 PM",
+        "06:00 AM - 10:00 PM"
+      ]
+    }
+  ]
+}
